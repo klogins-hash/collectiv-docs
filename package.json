@@ -1,6 +1,7 @@
 {
   "name": "collectiv-docs",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Documentation for The Collectiv creator cooperative",
   "private": true,
   "scripts": {
     "build": "next build",
