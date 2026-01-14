@@ -1,3 +1,8 @@
+---
+title: Top European Economics Departments (RePEc Rankings)
+description: The Collectiv documentation
+---
+
 # Top European Economics Departments (RePEc Rankings)
 
 ## Top 10 European Economics Departments

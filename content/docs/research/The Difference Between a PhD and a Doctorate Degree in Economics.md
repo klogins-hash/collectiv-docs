@@ -1,3 +1,8 @@
+---
+title: The Difference Between a PhD and a Doctorate Degree in Economics
+description: The Collectiv documentation
+---
+
 # The Difference Between a PhD and a Doctorate Degree in Economics
 
 ## Understanding the Terminology

@@ -1,3 +1,8 @@
+---
+title: Akademik-v1 MVP Implementation Guide
+description: The Collectiv documentation
+---
+
 # Akademik-v1 MVP Implementation Guide
 
 ## Quick Start (MVP Phase - Weeks 1-6)
@@ -217,7 +222,10 @@ class WikiRetriever:
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
             chunk_overlap=100,
-            separators=["\n\n", "\n", " "]
+            separators=["
+
+", "
+", " "]
         )
         chunks = splitter.split_documents(documents)
 
@@ -277,7 +285,9 @@ class ResearchAgent:
     def search_wiki(self, query: str):
         """Search wiki for information"""
         results = self.retriever.query(query)
-        return "\n\n".join([doc.page_content for doc in results])
+        return "
+
+".join([doc.page_content for doc in results])
 
     def synthesize_research(self, topic: str):
         """Synthesize research across multiple sources"""
@@ -310,8 +320,12 @@ Please provide:
         wiki_path = f"./wiki/04-research-findings/{page_name}.md"
 
         with open(wiki_path, "w") as f:
-            f.write(f"# {title}\n\n")
-            f.write(f"*Generated: {datetime.now().isoformat()}*\n\n")
+            f.write(f"# {title}
+
+")
+            f.write(f"*Generated: {datetime.now().isoformat()}*
+
+")
             f.write(content)
 
         print(f"✓ Created: {wiki_path}")

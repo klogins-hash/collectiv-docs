@@ -1,3 +1,8 @@
+---
+title: The Actual System Design (Corrected)
+description: The Collectiv documentation
+---
+
 # The Actual System Design (Corrected)
 
 ## Based on Voice Memo - January 14, 2026

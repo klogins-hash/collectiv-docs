@@ -1,3 +1,8 @@
+---
+title: European PhD Programs Analysis for Building PBC Platform
+description: The Collectiv documentation
+---
+
 # European PhD Programs Analysis for Building PBC Platform
 
 ## Key Differences: European vs US PhD Programs

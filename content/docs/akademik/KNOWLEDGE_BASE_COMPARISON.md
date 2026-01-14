@@ -1,3 +1,8 @@
+---
+title: Knowledge Base Comparison: DokuWiki vs. Modern Alternatives
+description: The Collectiv documentation
+---
+
 # Knowledge Base Comparison: DokuWiki vs. Modern Alternatives
 
 ## Your Key Requirements

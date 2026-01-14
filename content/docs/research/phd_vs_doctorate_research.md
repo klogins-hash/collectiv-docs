@@ -1,3 +1,8 @@
+---
+title: Research Notes: PhD vs Doctorate Degree in Economics
+description: The Collectiv documentation
+---
+
 # Research Notes: PhD vs Doctorate Degree in Economics
 
 ## Source 1: Walden University - PhD vs Professional Doctorate

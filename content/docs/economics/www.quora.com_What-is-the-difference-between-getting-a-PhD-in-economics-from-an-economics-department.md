@@ -1,3 +1,8 @@
+---
+title: 
+description: The Collectiv documentation
+---
+
 
 **URL:** https://www.quora.com/What-is-the-difference-between-getting-a-PhD-in-economics-from-an-economics-department-and-another-department-like-a-business-school
 

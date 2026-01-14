@@ -1,3 +1,8 @@
+---
+title: Personal Statement Draft
+description: The Collectiv documentation
+---
+
 # Personal Statement Draft
 
 ## For MIT Sloan Business Economics Track Application

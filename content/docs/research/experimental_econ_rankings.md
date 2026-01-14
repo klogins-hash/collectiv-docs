@@ -1,3 +1,8 @@
+---
+title: Top Experimental Economics PhD Programs (RePEc Rankings)
+description: The Collectiv documentation
+---
+
 # Top Experimental Economics PhD Programs (RePEc Rankings)
 
 ## Top 10 Institutions for Experimental Economics

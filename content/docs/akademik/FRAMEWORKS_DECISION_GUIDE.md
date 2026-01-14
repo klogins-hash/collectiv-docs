@@ -1,3 +1,8 @@
+---
+title: Frameworks Decision Guide for Akademik-v1
+description: The Collectiv documentation
+---
+
 # Frameworks Decision Guide for Akademik-v1
 
 Based on your architecture needs (GitHub + FastAPI + MCP, agent orchestration, 1000-document consolidation), here are the critical framework choices and my recommendations.

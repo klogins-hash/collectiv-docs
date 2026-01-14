@@ -1,0 +1,79 @@
+{
+  "title": "The Collectiv Documentation",
+  "description": "Complete documentation for The Collectiv creator cooperative",
+  "icon": "book-open",
+  "pages": [
+    {
+      "title": "Welcome",
+      "url": "index"
+    },
+    {
+      "title": "Foundation",
+      "icon": "layers",
+      "pages": [
+        "business-model",
+        "manifesto" 
+      ]
+    },
+    {
+      "title": "Operations",
+      "icon": "workflow", 
+      "pages": [
+        "governance",
+        "oops-process"
+      ]
+    },
+    {
+      "title": "For Members",
+      "icon": "users",
+      "pages": [
+        "member-guide",
+        "faq"
+      ]
+    },
+    {
+      "title": "Tools & Technical",
+      "icon": "code",
+      "pages": [
+        "tools-technical"
+      ]
+    },
+    {
+      "title": "Strategy & Vision",
+      "icon": "target",
+      "pages": [
+        "2026-strategy",
+        "sovereignty-stack",
+        "strategy"
+      ]
+    },
+    {
+      "title": "Culture",
+      "icon": "heart",
+      "pages": [
+        "brand-rituals",
+        "public-pledge"
+      ]
+    },
+    {
+      "title": "Research",
+      "icon": "book",
+      "description": "PhD research, economic theory, and foundational research"
+    },
+    {
+      "title": "Architecture",
+      "icon": "building",
+      "description": "System design and technical architecture"
+    },
+    {
+      "title": "Economics",
+      "icon": "trending-up",
+      "description": "Economic theory and cooperative programs"
+    },
+    {
+      "title": "Product",
+      "icon": "package",
+      "description": "Implementation guides and product development"
+    }
+  ]
+}

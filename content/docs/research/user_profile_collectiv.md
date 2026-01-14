@@ -1,3 +1,8 @@
+---
+title: User Profile: Collectiv Project & PhD Program Search
+description: The Collectiv documentation
+---
+
 # User Profile: Collectiv Project & PhD Program Search
 
 ## Research Focus

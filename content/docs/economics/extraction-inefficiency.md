@@ -1,3 +1,8 @@
+---
+title: Extraction Inefficiency: The Core Economic Insight
+description: The Collectiv documentation
+---
+
 # Extraction Inefficiency: The Core Economic Insight
 
 ## The 2012 Realization That Started Everything

@@ -1,3 +1,8 @@
+---
+title: STAGE 7: Frontend UI - Research Consolidation Wiki (COMPLETED ✅)
+description: The Collectiv documentation
+---
+
 # STAGE 7: Frontend UI - Research Consolidation Wiki (COMPLETED ✅)
 
 ## Overview

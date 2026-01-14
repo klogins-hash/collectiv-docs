@@ -1,3 +1,8 @@
+---
+title: Stage 5 Summary: Task Submission Endpoints & API Integration
+description: The Collectiv documentation
+---
+
 # Stage 5 Summary: Task Submission Endpoints & API Integration
 
 **Commit**: 9f2218c

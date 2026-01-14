@@ -1,3 +1,8 @@
+---
+title: University of Chicago - Chicago Experiments Initiative
+description: The Collectiv documentation
+---
+
 # University of Chicago - Chicago Experiments Initiative
 
 ## Leadership

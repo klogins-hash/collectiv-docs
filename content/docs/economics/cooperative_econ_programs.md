@@ -1,3 +1,8 @@
+---
+title: Cooperative & Heterodox Economics PhD Programs
+description: The Collectiv documentation
+---
+
 # Cooperative & Heterodox Economics PhD Programs
 
 ## CRITICAL UPDATE: New School Admissions Paused

@@ -1,3 +1,8 @@
+---
+title: Technical Architecture: Built From Scratch for the AI Age
+description: The Collectiv documentation
+---
+
 # Technical Architecture: Built From Scratch for the AI Age
 
 ## "You Can't Put New Wine in Old Skins"

@@ -1,3 +1,8 @@
+---
+title: Stage 2: Strands Agent Framework - Complete Summary
+description: The Collectiv documentation
+---
+
 # Stage 2: Strands Agent Framework - Complete Summary
 
 **Completion Date:** January 14, 2026

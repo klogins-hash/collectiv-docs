@@ -1,3 +1,8 @@
+---
+title: MIT Business Economics Track - Key Details
+description: The Collectiv documentation
+---
+
 # MIT Business Economics Track - Key Details
 
 ## Program Structure

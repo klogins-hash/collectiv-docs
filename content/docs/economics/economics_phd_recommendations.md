@@ -1,3 +1,8 @@
+---
+title: Economics PhD Program Recommendations for "The Collectiv" Research
+description: The Collectiv documentation
+---
+
 # Economics PhD Program Recommendations for "The Collectiv" Research
 
 Based on your unique and ambitious research agenda for "The Collectiv," which aims to address AI-driven job displacement through a new, experimental economic structure, the following PhD programs are recommended. The analysis prioritizes institutions that not only tolerate but actively encourage practical, large-scale experimentation and interdisciplinary research, aligning with your goal to *build* a solution, not just theorize about it.

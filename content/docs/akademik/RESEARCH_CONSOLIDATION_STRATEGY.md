@@ -1,3 +1,8 @@
+---
+title: Consolidating 1000+ Documents into a Reliable Wiki
+description: The Collectiv documentation
+---
+
 # Consolidating 1000+ Documents into a Reliable Wiki
 
 ## Your Situation
@@ -64,7 +69,8 @@ def export_inventory(documents, output_file):
         t = doc['type']
         types[t] = types.get(t, 0) + 1
 
-    print("\nDocument breakdown:")
+    print("
+Document breakdown:")
     for dtype, count in sorted(types.items(), key=lambda x: x[1], reverse=True):
         print(f"  {dtype}: {count}")
 
@@ -122,7 +128,9 @@ def convert_chatgpt_json_to_md(json_file, output_file):
     with open(json_file) as f:
         data = json.load(f)
 
-    md_content = "# Conversation\n\n"
+    md_content = "# Conversation
+
+"
 
     for message in data.get("messages", []):
         role = message.get("author", {}).get("role", "unknown")
@@ -130,12 +138,17 @@ def convert_chatgpt_json_to_md(json_file, output_file):
         timestamp = message.get("create_time", "")
 
         if content:
-            md_content += f"## {role.upper()}\n"
+            md_content += f"## {role.upper()}
+"
             if timestamp:
                 ts = datetime.fromtimestamp(timestamp).isoformat()
-                md_content += f"*{ts}*\n\n"
+                md_content += f"*{ts}*
 
-            md_content += content[0] + "\n\n"
+"
+
+            md_content += content[0] + "
+
+"
 
     with open(output_file, 'w') as f:
         f.write(md_content)
@@ -195,7 +208,9 @@ Output as structured JSON.""",
             messages=[
                 {
                     "role": "user",
-                    "content": f"Analyze this document for consolidation:\n\n{document_text[:4000]}"
+                    "content": f"Analyze this document for consolidation:
+
+{document_text[:4000]}"
                 }
             ]
         )
@@ -211,7 +226,9 @@ Output as structured JSON.""",
             messages=[
                 {
                     "role": "user",
-                    "content": f"Deduplicate these findings:\n\n{json.dumps(findings_list)}"
+                    "content": f"Deduplicate these findings:
+
+{json.dumps(findings_list)}"
                 }
             ]
         )
@@ -233,7 +250,10 @@ Output as structured JSON.""",
             messages=[
                 {
                     "role": "user",
-                    "content": f"Create wiki page on: {topic}\n\nFindings:\n{consolidated_findings}"
+                    "content": f"Create wiki page on: {topic}
+
+Findings:
+{consolidated_findings}"
                 }
             ]
         )
@@ -412,7 +432,9 @@ Create a PhD-level dissertation outline with these chapters:
 Cite the wiki content provided.""",
         messages=[{
             "role": "user",
-            "content": f"Create dissertation outline from this research:\n\n{json.dumps(wiki_content)}"
+            "content": f"Create dissertation outline from this research:
+
+{json.dumps(wiki_content)}"
         }]
     )
 

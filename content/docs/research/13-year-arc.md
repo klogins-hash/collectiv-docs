@@ -1,3 +1,8 @@
+---
+title: The 13-Year Arc: From Theory to Practice to Institution-Building
+description: The Collectiv documentation
+---
+
 # The 13-Year Arc: From Theory to Practice to Institution-Building
 
 ## Timeline Overview

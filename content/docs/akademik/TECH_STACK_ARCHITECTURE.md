@@ -1,3 +1,8 @@
+---
+title: Akademik-v1: AI-Native Research & Documentation Architecture
+description: The Collectiv documentation
+---
+
 # Akademik-v1: AI-Native Research & Documentation Architecture
 
 ## Executive Summary
@@ -210,7 +215,10 @@ documents = loader.load()
 splitter = RecursiveCharacterTextSplitter(
     chunk_size=1000,
     chunk_overlap=100,
-    separators=["\n\n", "\n", " "]
+    separators=["
+
+", "
+", " "]
 )
 chunks = splitter.split_documents(documents)
 
@@ -247,8 +255,13 @@ def query_rag_with_citations(question: str):
     results = vectorstore.similarity_search_with_score(question, k=5)
 
     # Format for Claude with citation tracking
-    context = "\n\n".join([
-        f"**Source:** {doc.metadata['source']}\n**Section:** {doc.metadata['section']}\n\n{doc.page_content}"
+    context = "
+
+".join([
+        f"**Source:** {doc.metadata['source']}
+**Section:** {doc.metadata['section']}
+
+{doc.page_content}"
         for doc, score in results
     ])
 
@@ -259,7 +272,10 @@ def query_rag_with_citations(question: str):
         system="You are a research assistant. Always cite sources from the provided context.",
         messages=[{
             "role": "user",
-            "content": f"Question: {question}\n\nContext:\n{context}"
+            "content": f"Question: {question}
+
+Context:
+{context}"
         }]
     )
 

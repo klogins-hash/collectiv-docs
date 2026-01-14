@@ -1,3 +1,8 @@
+---
+title: Akademik-v1 Comprehensive QA Review
+description: The Collectiv documentation
+---
+
 # Akademik-v1 Comprehensive QA Review
 **Date:** January 14, 2026
 **Stages Reviewed:** 1-3 (Foundation & Infrastructure, Strands Agent Framework, RAG & Search)

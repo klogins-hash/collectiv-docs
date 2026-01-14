@@ -1,3 +1,8 @@
+---
+title: PhD Programs and Building Companies: Research Findings
+description: The Collectiv documentation
+---
+
 # PhD Programs and Building Companies: Research Findings
 
 ## Key Insights

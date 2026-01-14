@@ -1,3 +1,8 @@
+---
+title: Strategic Vision: The Operating System Upgrade for the Next 1,000 Years
+description: The Collectiv documentation
+---
+
 # Strategic Vision: The Operating System Upgrade for the Next 1,000 Years
 
 ## The Core Question

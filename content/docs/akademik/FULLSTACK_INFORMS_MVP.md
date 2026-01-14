@@ -1,3 +1,8 @@
+---
+title: How the Full Stack Should Inform Your MVP
+description: The Collectiv documentation
+---
+
 # How the Full Stack Should Inform Your MVP
 
 ## The Problem

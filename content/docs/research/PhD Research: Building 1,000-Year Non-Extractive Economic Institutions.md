@@ -1,3 +1,8 @@
+---
+title: PhD Research: Building 1,000-Year Non-Extractive Economic Institutions
+description: The Collectiv documentation
+---
+
 # PhD Research: Building 1,000-Year Non-Extractive Economic Institutions
 
 ## Overview

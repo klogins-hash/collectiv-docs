@@ -1,3 +1,8 @@
+---
+title: Stage 1: Foundation & Infrastructure - COMPLETED ✓
+description: The Collectiv documentation
+---
+
 # Stage 1: Foundation & Infrastructure - COMPLETED ✓
 
 **Duration:** Week 1-2

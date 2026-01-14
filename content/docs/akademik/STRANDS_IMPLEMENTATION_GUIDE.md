@@ -1,3 +1,8 @@
+---
+title: Strands Implementation Guide for Akademik-v1
+description: The Collectiv documentation
+---
+
 # Strands Implementation Guide for Akademik-v1
 
 Reference: https://github.com/strands-agents
@@ -355,7 +360,8 @@ export async function runConsolidationJob(
 
     // Input to agent
     prompt: `Consolidate these research documents:
-${input.documentIds.map(id => `- ${id}`).join("\n")}
+${input.documentIds.map(id => `- ${id}`).join("
+")}
 
 ${input.section ? `Target wiki section: ${input.section}` : "Organize by relevance to existing wiki structure"}
 

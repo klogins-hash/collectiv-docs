@@ -1,3 +1,8 @@
+---
+title: Akademik Backend
+description: The Collectiv documentation
+---
+
 # Akademik Backend
 
 Python FastAPI backend for Akademik research consolidation system.

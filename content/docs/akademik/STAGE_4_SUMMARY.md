@@ -1,3 +1,8 @@
+---
+title: Stage 4 Summary: Celery Task Queue Infrastructure
+description: The Collectiv documentation
+---
+
 # Stage 4 Summary: Celery Task Queue Infrastructure
 **Date:** January 14, 2026 | **Commit:** 29dc0ac | **Status:** ✅ COMPLETE
 

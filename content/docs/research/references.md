@@ -1,3 +1,8 @@
+---
+title: Key References and Resources
+description: The Collectiv documentation
+---
+
 # Key References and Resources
 
 ## PhD Programs

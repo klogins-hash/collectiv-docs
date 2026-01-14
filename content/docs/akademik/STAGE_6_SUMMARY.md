@@ -1,3 +1,8 @@
+---
+title: Stage 6 Summary: Agent-Driven Consolidation Workflows & Task Orchestration
+description: The Collectiv documentation
+---
+
 # Stage 6 Summary: Agent-Driven Consolidation Workflows & Task Orchestration
 
 **Commit**: 1b1629a

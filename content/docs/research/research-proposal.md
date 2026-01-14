@@ -1,3 +1,8 @@
+---
+title: Research Proposal: AI-Native Non-Extractive Economic Institutions
+description: The Collectiv documentation
+---
+
 # Research Proposal: AI-Native Non-Extractive Economic Institutions
 
 ## Dissertation Proposal for PhD in Economics

@@ -1,3 +1,8 @@
+---
+title: Build It Right From Day One: Complete Stack Architecture
+description: The Collectiv documentation
+---
+
 # Build It Right From Day One: Complete Stack Architecture
 
 ## Your Position: Valid & Better

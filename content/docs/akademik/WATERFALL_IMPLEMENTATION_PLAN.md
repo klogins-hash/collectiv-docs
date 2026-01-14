@@ -1,3 +1,8 @@
+---
+title: Akademik-v1 Waterfall Implementation Plan
+description: The Collectiv documentation
+---
+
 # Akademik-v1 Waterfall Implementation Plan
 
 **Start Date:** January 14, 2026

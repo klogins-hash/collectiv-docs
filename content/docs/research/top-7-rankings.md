@@ -1,3 +1,8 @@
+---
+title: Top 7 PhD Programs for Building 1,000-Year Non-Extractive Institutions
+description: The Collectiv documentation
+---
+
 # Top 7 PhD Programs for Building 1,000-Year Non-Extractive Institutions
 
 ## Quick Rankings

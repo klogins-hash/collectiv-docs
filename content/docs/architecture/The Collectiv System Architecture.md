@@ -1,3 +1,8 @@
+---
+title: The Collectiv System Architecture
+description: The Collectiv documentation
+---
+
 # The Collectiv System Architecture
 ## "Buy, Borrow, Die for the 99%"
 
